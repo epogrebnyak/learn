@@ -1,8 +1,11 @@
 + primitives repo
 + inference book
 + ODS repo
-+ three charts
-+ 
+
+
+
+- <https://github.com/Yorko/mlcourse.ai>
+- <https://github.com/astorfi/Deep-Learning-World>
 
 ML Book
 -------
