@@ -19,14 +19,27 @@ Best practice
 Talks
 -----
 
-- [Raymond Herringer - Beyond PEP8] - very enlighting
+- [Raymond Herringer - Beyond PEP8](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 - [James Powell](https://www.youtube.com/watch?v=7lmCu8wz8ro&t=4142s)
 - PyData talks on youtube
 
-Books
------
+Fundamentals
+------------
+
+- Clean Code by Martin Fowler
+- Code Complete by Steve McConnell
+- The Pragmatic Programmer by Andrew Hunt and David Thomas 
+- The Mythical Man-Month by Fred Brooks
+- The C Programming Language by Brian Kernighan
+
+Some more books
+---------------
+
 - https://d.cxcore.net/Python/Python_Cookbook_3rd_Edition.pdf
 - http://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html#scripting-vs-programming
+
+
+
 
 
 
