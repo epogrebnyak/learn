@@ -77,7 +77,7 @@ Sketch of steps
 - [ ] https://github.com/trending/python
 - [ ] https://stackoverflow.com/questions/tagged/python?sort=votes
 - [ ] ...
-- unittest, pytest
+- [ ] assert, unittest, pytest, TDD
 - [ ] ...
 - [ ] O-notation
 - [ ] https://github.com/TheAlgorithms/Python
