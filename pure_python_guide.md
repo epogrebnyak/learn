@@ -1,6 +1,19 @@
 Learn Python 
 ============
 
+Installation
+------------
+
+Local computer:
+- [Anaconda](https://www.anaconda.com/distribution/)
+
+Web:
+- [Repl.it](https://repl.it)
+- [Google Colab](https://colab.research.google.com/)
+- [MS Azure](https://notebooks.azure.com/Microsoft/projects)
+
+
+
 Introductions
 -------------
 
@@ -32,36 +45,57 @@ Talks
 - [James Powell](https://www.youtube.com/watch?v=7lmCu8wz8ro&t=4142s)
 - [PyData talks on youtube](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
 
-Books of Fundamentals
----------------------
+Books on advanced programming
+-----------------------------
+
+Better code:
 
 - Clean Code by Martin Fowler
 - Code Complete by Steve McConnell
 - The Pragmatic Programmer by Andrew Hunt and David Thomas 
+
+Computer science:
+
 - The Mythical Man-Month by Fred Brooks
 - The C Programming Language by Brian Kernighan
 
-Some more links
----------------
+More links
+----------
 
 - [scripting is not programming yet](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html#scripting-vs-programming)
 
 
-Steps
------
+Sketch of steps
+---------------
 
 - [ ] `python --version` in CLI
 - [ ] `print ("hello world")`
 - ...
 - [ ] PEP8
-- 
+- ...
+- [ ] https://github.com/topics/python
 - [ ] https://github.com/trending/python
 - [ ] https://stackoverflow.com/questions/tagged/python?sort=votes
 - ...
 - unittest, pytest
 - ...
+- [ ] O-notation
+- [ ] https://github.com/TheAlgorithms/Python
+- ...
 - [ ] [docopt](http://docopt.org/)
+- [ ] [dataset](https://dataset.readthedocs.io/en/latest/) 
+- ...
+- [ ] documentation, sphinx
+- ...
+- [ ] [design patterns](https://github.com/faif/python-patterns)
 - ...
 - [ ] [ABCs](https://docs.python.org/3/library/abc.html)
+
+Finding motivation 
+-------------------
+
+- [Python developpers survey](https://www.jetbrains.com/research/python-developers-survey-2018/)
+
+
 
 
