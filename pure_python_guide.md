@@ -4,16 +4,24 @@ General python
 Introductions
 -------------
 
-- <https://github.com/trekhleb/learn-python>
-- [Python intro at QuantEcon](https://lectures.quantecon.org/py/index_learning_python.html)
-- <https://www.scipy-lectures.org/intro/>
+My favourites:
+
+- Oleksii Trekhleb's [Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)
+- [Python introduction](https://lectures.quantecon.org/py/index_learning_python.html) at QuantEcon
+- [The Python language chapter](http://scipy-lectures.org/intro/language/python_language.html) in SciPy lectures
+
+Older books, often recommended:
+
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org)
+- [Zed Shaw. Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
+- [Mark Lutz. Learning Python](https://learning-python.com/index-book-links.html)
 
 Best practice
 -------------
 
 - https://gist.github.com/sloria/7001839
-- https://github.com/google/styleguide/blob/gh-pages/pyguide.md (includes docstring style guide)
-- https://dmugtasimov-tech.blogspot.com/2016/12/my-python-software-development-practices.html
+- [Google style guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md), includes docstring style guide
+- [Mugtasimov's blog post](https://dmugtasimov-tech.blogspot.com/2016/12/my-python-software-development-practices.html)
 - [My own testing guidelines](https://github.com/mini-kep/guidelines/blob/master/testing.md)
 
 Talks
