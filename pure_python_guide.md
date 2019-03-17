@@ -23,11 +23,12 @@ My favourites:
 - [Python introduction](https://lectures.quantecon.org/py/index_learning_python.html) at QuantEcon
 - [The Python language chapter](http://scipy-lectures.org/intro/language/python_language.html) in SciPy lectures
 
-Older books, often recommended:
-
+Very vibrant book:
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org)
+
+Older books, often recommended:
 - [Zed Shaw. Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
-- [Dive into Python](https://www.diveinto.org/python3)
+- [Mark Pilgrim. Dive into Python](https://www.diveinto.org/python3)
 
 Published:
 - [Mark Lutz. Learning Python](https://learning-python.com/index-book-links.html)
@@ -36,10 +37,11 @@ Published:
 Best practice
 -------------
 
-- https://gist.github.com/sloria/7001839
+- [Best of the Best Practices (BOBP)](https://gist.github.com/sloria/7001839)
 - [Google style guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md), includes docstring style guide
 - [Mugtasimov's blog post](https://dmugtasimov-tech.blogspot.com/2016/12/my-python-software-development-practices.html)
-- [My own testing guidelines](https://github.com/mini-kep/guidelines/blob/master/testing.md)
+
+Side note: [my own testing guidelines](https://github.com/mini-kep/guidelines/blob/master/testing.md)
 
 Talks
 -----
@@ -57,10 +59,14 @@ Better code:
 - Code Complete by Steve McConnell
 - The Pragmatic Programmer by Andrew Hunt and David Thomas 
 
-Computer science:
+Software development:
 
 - The Mythical Man-Month by Fred Brooks
+
+Computer science classics:
+
 - The C Programming Language by Brian Kernighan
+- [Structure and Interpretation of Computer Programs — SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 
 More links
 ----------
