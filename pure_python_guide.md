@@ -27,6 +27,9 @@ Older books, often recommended:
 
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org)
 - [Zed Shaw. Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
+- [Dive into Python](https://www.diveinto.org/python3)
+
+Published:
 - [Mark Lutz. Learning Python](https://learning-python.com/index-book-links.html)
 - [Python cookbook](https://www.dabeaz.com/cookbook.html) with [unofficial Russian translation](https://raw.githubusercontent.com/borisuvarov/python-cookbook-ru/master/cookbook.md)
 
