@@ -72,3 +72,4 @@ More links
 ----------
 
 - [scripting is not programming yet](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html#scripting-vs-programming)
+- [lambda school on entry-level resources](https://twitter.com/ryanallred/status/1145735809401622531)
