@@ -1,9 +1,8 @@
-
 Learn Python 
 ============
 
-Installation
-------------
+Install python
+--------------
 
 Local computer:
 - [Anaconda](https://www.anaconda.com/distribution/)
@@ -28,12 +27,9 @@ Very vibrant book:
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org)
 
 Older books, often recommended:
-- [Zed Shaw. Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
-- [Mark Pilgrim. Dive into Python](https://www.diveinto.org/python3)
-
-Published:
-- [Mark Lutz. Learning Python](https://learning-python.com/index-book-links.html)
-- [Python cookbook](https://www.dabeaz.com/cookbook.html) with [unofficial Russian translation](https://raw.githubusercontent.com/borisuvarov/python-cookbook-ru/master/cookbook.md)
+- [Zed Shaw. Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) (online)
+- [Mark Pilgrim. Dive into Python](https://www.diveinto.org/python3) (online)
+- [Mark Lutz. Learning Python](https://learning-python.com/index-book-links.html) (print)
 
 Best practice
 -------------
@@ -42,8 +38,6 @@ Best practice
 - [Google style guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md), includes docstring style guide
 - [Mugtasimov's blog post](https://dmugtasimov-tech.blogspot.com/2016/12/my-python-software-development-practices.html)
 
-Side note: [my own testing guidelines](https://github.com/mini-kep/guidelines/blob/master/testing.md)
-
 Talks
 -----
 
@@ -51,8 +45,8 @@ Talks
 - [James Powell](https://www.youtube.com/watch?v=7lmCu8wz8ro&t=4142s)
 - [PyData talks on youtube](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
 
-Books on advanced programming
------------------------------
+Books on programming
+--------------------
 
 Better code:
 
@@ -69,8 +63,7 @@ Computer science classics:
 - The C Programming Language by Brian Kernighan
 - [Structure and Interpretation of Computer Programs — SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 
-More links
-----------
+Themes
+------
 
 - [scripting is not programming yet](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html#scripting-vs-programming)
-- [lambda school on entry-level resources](https://twitter.com/ryanallred/status/1145735809401622531)
