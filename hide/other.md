@@ -5,10 +5,7 @@ More links
 - [Python cookbook](https://www.dabeaz.com/cookbook.html) with [unofficial Russian translation](https://raw.githubusercontent.com/borisuvarov/python-cookbook-ru/master/cookbook.md)
 - [Peter Norvig's excercises](https://github.com/norvig/pytudes)
 - @learnpython reddit
-- <https://www.coursera.org/learn/programming-language>
 - <https://github.com/epogrebnyak/open-source-economic-computing-intro>
-
-
 
 
 Stackoverflow
@@ -31,5 +28,3 @@ Learning linux
 ==============
 
 - create a DO droplet and change to ssh login
-
-
