@@ -25,7 +25,6 @@ Ununderstandable
 ================
 - metaprogramming
 - clojure
-- reduce
 
 CS study guides
 ---------------
