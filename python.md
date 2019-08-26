@@ -1,19 +1,6 @@
 Learn Python 
 ============
 
-Install python
---------------
-
-Local computer:
-- [Anaconda](https://www.anaconda.com/distribution/)
-
-Web:
-- [Repl.it](https://repl.it)
-- [Google Colab](https://colab.research.google.com/)
-- [MS Azure](https://notebooks.azure.com/Microsoft/projects)
-
-
-
 Introductions
 -------------
 
@@ -67,3 +54,15 @@ Themes
 ------
 
 - [scripting is not programming yet](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html#scripting-vs-programming)
+
+
+Installation
+------------
+
+Local computer:
+- [Anaconda](https://www.anaconda.com/distribution/)
+
+Web:
+- [Repl.it](https://repl.it)
+- [Google Colab](https://colab.research.google.com/)
+- [MS Azure](https://notebooks.azure.com/Microsoft/projects)
