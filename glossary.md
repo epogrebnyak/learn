@@ -14,3 +14,8 @@ Acronyms
 - **SoV**  - store of value
 - **SoT** - source of truth
 - **SO** - [Stack Overflow](https://stackoverflow.com)
+
+References
+==========
+
+- A 1990s near Dilbert-style [IBM jargon gem](https://comlay.net/ibmjarg.pdf), plenty of revelations!
