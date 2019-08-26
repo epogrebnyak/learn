@@ -29,22 +29,6 @@ Learnt something
 - [Github pages publishing](https://blog.github.com/2016-12-09-publishing-with-github-pages-now-as-easy-as-1-2-3/)
 
 
-Not learning
-============
-
-- docker, kubernetes, ansible, vagrant
-- ebooks/latex
-- map/reduce/closure
-- kaggle
-- advanced git
-- metaprogramming
-
-Learning linux
-==============
-
-- create a DO droplet and change to ssh login
-
-
 Sidenotes
 =========
 
@@ -52,11 +36,6 @@ Sidenotes
 - *Go* natively compiles to windows executable
 - last *cmder* version supporting win32 is [1.3.4](https://github.com/cmderdev/cmder/releases/tag/v1.3.4)
 
-
-Stackoverflow
-=============
-
-- [unanswered question about copulas](https://stackoverflow.com/questions/51536478/simulation-of-t-copula-in-python)
 
 
 Unit testing
@@ -84,3 +63,4 @@ Terms
 - room tone (radio broadcasting)
 - fungibility (economics) 
 - 'first principles' (design thinking)
+
