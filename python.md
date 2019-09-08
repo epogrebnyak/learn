@@ -66,3 +66,14 @@ Web:
 - [Repl.it](https://repl.it)
 - [Google Colab](https://colab.research.google.com/)
 - [MS Azure](https://notebooks.azure.com/Microsoft/projects)
+
+Interview questions
+-------------------
+
+https://luminousmen.com/post/python-interview-questions-junior
+
+
+Other
+-----
+
+https://www.reddit.com/r/learnpython/
