@@ -12,7 +12,7 @@ Lessons learned:
 - Github Pages supports some blogging and not docs themes, need install Ruby otherwise
 - port of mkdocs-material to Hugo is 2017, and Hugo versions are way ahead
 - JS-based (React/Vue) generators are a world of its own to be discovered
-- top SSG amount 40k stars on Github (Next, Gatsby, Hugo, Jekyll) and next round of contenders around 10k (python-based)
+- top SSG amount 40k stars on Github (Next, Gatsby, Hugo, Jekyll) and next round of contenders around 10k (python-based), see https://www.staticgen.com/
 
 Student project idea:
 
