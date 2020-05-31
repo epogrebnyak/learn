@@ -23,4 +23,4 @@ Student project idea:
 
 Some 2020 reality:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1. Make a blog using Jekyll on GitHub pages <br>2. Rewrite it w/ Hugo<br>3. Rewrite it w/ custom static site generator <br>4. Rewrite it w/ Gatsby <br>5. Move hosting to S3<br>6. Remove Google analytics <br>7. Write your own analytics<br>7. Move hosting to raspberry pi <br>8. Only have 3 posts written</p>&mdash; Alex Garcia (@agarcia_me) <a href="https://twitter.com/agarcia_me/status/1265355017768198144?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1. Make a blog using Jekyll on GitHub pages <br>2. Rewrite it w/ Hugo<br>3. Rewrite it w/ custom static site generator <br>4. Rewrite it w/ Gatsby <br>5. Move hosting to S3<br>6. Remove Google analytics <br>7. Write your own analytics<br>7. Move hosting to raspberry pi <br>8. Only have 3 posts written</p>&mdash; Alex Garcia (@agarcia_me) <a href="https://twitter.com/agarcia_me/status/1265355017768198144?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote> 
