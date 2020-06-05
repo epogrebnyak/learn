@@ -15,7 +15,7 @@ New addition:
 - https://github.com/dabeaz-course/practical-python, [10000 hours now free](https://twitter.com/dabeaz/status/1266339737624813569)
 
 
-Very vibrant book:
+Popular book:
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org)
 
 Older books, often recommended:
