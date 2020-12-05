@@ -6,10 +6,10 @@ This site lists my findings about Python, software engineering and documentation
 
 - I recommend [the following three resources](python/start.md) as Python language 
   introductions.
-- Lectures like ["Beyond PEP8" by Raymond Herringer][pep8-talk] make you a better Python 
+- Lectures like ["Beyond PEP8"][pep8-talk] by [Raymond Herringer](https://twitter.com/raymondh) make you a better Python 
   developper.
-- Cool things in Python appear as [trending on Github][trending] and listed in 
-  [user surveys][surveys].
+- Check [trending on Github][trending] and [user surveys][surveys] to see what is cool and 
+  popular in python.
 - I collected a few links about [python project maintence](python/packaging.md)
   and [unit tests](python/unit_testing.md).
 
