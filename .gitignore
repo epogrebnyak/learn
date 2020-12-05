@@ -1,2 +1,5 @@
 book
 mdbook.exe
+notes/_build/*
+temp
+env1
