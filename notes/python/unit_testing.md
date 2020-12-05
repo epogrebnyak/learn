@@ -1,5 +1,4 @@
-Unit testing
-============
+# Unit testing
 
 - [Testing guidelines](https://github.com/mini-kep/guidelines)
 - [Some SO answers on pytest](https://stackoverflow.com/search?q=user%3A1758363+pytest)

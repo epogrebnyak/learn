@@ -1,41 +1,29 @@
-This site documents my findings about Python and programming.
+# Python, software engineering and documentation
 
-### Python
+This site lists my findings about Python, software engineering and documentation.
 
+**Python**:
 
-### How to learn Python?
+- I recommend [the following three resources](python/start.md) as Python language 
+  introductions.
+- Lectures like ["Beyond PEP8" by Raymond Herringer][pep8-talk] make you a better Python 
+  developper.
+- Cool things in Python appear as [trending on Github][trending] and listed in 
+  [user surveys][surveys].
+- I collected a few links about [python project maintence](python/packaging.md)
+  and [unit tests](python/unit_testing.md).
 
-I recommend the [following three resources](python/start.md) as Python language introductions.
+[pep8-talk]: https://www.youtube.com/watch?v=wf-BqAjZb8M
+[trending]: https://github.com/trending/python
+[surveys]: https://www.jetbrains.com/lp/devecosystem-2020/python/
 
-## What are good books to read about programming?
+**Software engineering**. See a list of [books][books] and [wise quotes][wise] from other sources.
 
-[Here is a list.]()
+[books]: programming/books.md
+[wise]: programming/wisdom.md
 
-## What makes you a better Python programmer?
+**Static site generators**. This site is built with [Jupyter Book][jb], a tool that uses [Sphinx](https://www.sphinx-doc.org/en/master/) and a custom variety of Markdown (MyST) with
+emphasis on interactivity and code execution. Other popular static site generators [described here][ssg].
 
-- A few good lectures like [Beyond PEP8 by Raymond Herringer][pep8]
-- [Project maintence skills](packaging.md)
-- Unit tests
-- Knowing other programming languages
-
-[pep8]: https://www.youtube.com/watch?v=wf-BqAjZb8M
-
-## What are really cool things written in Python?
-
-- Perhaps, what is trending on Github. 
-- What is listed in user surveys.
-
-## How did you build this site?
-
-I have built documentation sites with:
-
-- sphinx
-- mkdocs
-- mdbook (this site)
-- hugo 
-
-and tried even more. I share my impressions [here](static site generators).
-
-## Are there things you gave up learning?
-
-> Sure. [Here they are](off_radar.md).
+[jb]: https://jupyterbook.org/intro.html
+[ssg]: static_sites/intro.md
