@@ -1,0 +1,9 @@
+[book]
+authors = ["Evgeniy Pogrebnyak"]
+language = "en"
+multilingual = true
+src = "./notes"
+title = "Up with Python"
+
+[build]
+create-missing = false
