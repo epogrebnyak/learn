@@ -1,6 +1,12 @@
 # Static site generators (SSG)
 
-A follow-up to https://twitter.com/PogrebnyakE/status/1267016141848883202
+```{note}
+This page is draft.
+
+It is a follow-up to <https://twitter.com/PogrebnyakE/status/1267016141848883202>
+```
+
+
 
 Lessons learned:
 

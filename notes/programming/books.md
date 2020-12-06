@@ -1,4 +1,4 @@
-## Books on programming
+# Books on programming
 
 Better code:
 
@@ -18,7 +18,7 @@ Heavyweight classic:
 
 - [Structure and Interpretation of Computer Programs — SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 
-
+<!--
 Architecture:
 
 ...
@@ -30,3 +30,5 @@ Algorithms:
 Databases:
 
 ...
+
+>

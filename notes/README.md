@@ -4,12 +4,16 @@ This site lists my findings about Python, software engineering and writing docum
 
 **Python**:
 
-- I recommend [these three resources](python/start.md) as good introductions to Python. Trekhleb is a set of excercises and other two nake a balanced reading.
-- Lectures like ["Beyond PEP8"][pep8-talk] by [Raymond Herringer](https://twitter.com/raymondh) make you a better Python  developper.
-- Check [trending on Github][trending] and [user surveys][surveys] to see what is cool and 
-  popular in Python.
-- I collected a few ideas and links about [project maintenance](python/packaging.md)
-  and [unit testing](python/unit_testing.md) and suggest [just][just] and [pytest][pytest] as your friends.
+- I recommend [these three resources](python/start.md) as good introductions to Python. Trekhleb is a set of excercises and the other two make a balanced reading.
+- Lectures like ["Beyond PEP8"][pep8-talk] by [Raymond Herringer](https://twitter.com/raymondh) push you to be a better Python developper.
+- Check [trending on Github][trending] and [JetBrains annual user surveys][surveys] to see 
+  what is cool and popular in Python.
+- I collected a few ideas and links about [project housekeeping](python/packaging.md)
+  and [unit testing](python/unit_testing.md) and treat [just][just] and [pytest][pytest] as friends.
+- I maintain two python packages for economic statistics:
+  - [boo](https://github.com/ru-corporate/boo/) - annual accounting reports of Russian 
+    companies, 1.2 million firms 
+  - [weo](https://github.com/epogrebnyak/weo-reader) - IMF WEO semi-annual releases as pandas dataframes
 
 [pep8-talk]: https://www.youtube.com/watch?v=wf-BqAjZb8M
 [trending]: https://github.com/trending/python
@@ -17,7 +21,16 @@ This site lists my findings about Python, software engineering and writing docum
 [pytest]: https://docs.pytest.org/en/stable/
 [just]: https://github.com/casey/just
 
-**Software engineering**. See a list of [essential books][books] and [wise quotes][wise].
+**Julia**: 
+
+- I wrote [Julia, surprise me!](https://dev.to/epogrebnyak/julialang-and-surprises---what-im-learning-with-a-new-programming-language--21df) blog post when learning Julia (things improved since).
+- [Russian](https://t.me/JuliaLanguage) and [Kazakh](https://t.me/JuliaLang_Kz) telegram channels on Julia are thrillingly active and accept questions in English too.
+
+**Haskell**: [7 classes of Haskell][hs], a curated introduction to Haskell by [Yuras Shumovich](https://twitter.com/shumovichy) and a follow-up reading list.
+
+[hs]: https://github.com/epogrebnyak/haskell-intro
+
+**Software engineering**. See a list of [essential books][books] and [thought-provoking quotes][wise].
 
 [books]: programming/books.md
 [wise]: programming/wisdom.md
@@ -28,10 +41,8 @@ emphasis on interactivity, code execution and hopefully PDF rendering. Other pop
 [jb]: https://jupyterbook.org/intro.html
 [ssg]: static_sites/intro.md
 
-**Add more**: Julia, Haskell, data projects (eg boo), mid-tech, optimisations, reproducible research, missed semester, tools for economists, econometrics, Nim/Rust, time-keeping.
+**Add more stuff**: contacts, data projects (boo), mid-tech data science, optimizations, reproducible research, missed-semester, tools for economists, Econometrics Navigator, technical writing, Nim/Rust, and [a time-keeping command line tool I often forget about][watson].
 
-**Wanted**: 
+[watson]: https://github.com/TailorDev/Watson
 
-- good embedding of tweets in Myst
-- build same markdown source with other SSG
-- see what is cool in Twitter
+**Twitter**. This site release announcement is pinned [here](https://twitter.com/PogrebnyakE/status/1335646763412303874).
