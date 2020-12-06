@@ -4,7 +4,7 @@ This site lists my findings about programming, economic data and writing documen
 
 **Python**:
 
-- I recommend [these three resources](python/start.md) as good introductions to Python. Trekhleb is a set of excercises and the other two make a balanced reading.
+- I recommend [these three resources](python/start.md) as good introductions to Python. 
 - Lectures like ["Beyond PEP8"][pep8-talk] by [Raymond Herringer](https://twitter.com/raymondh) appeal to you as a better Python developper.
 - Check [trending on Github][trending] and [JetBrains annual user surveys][surveys] to see 
   what is cool and popular in Python.
