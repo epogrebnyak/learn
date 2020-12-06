@@ -8,8 +8,12 @@ This site lists my findings about Python, software engineering and writing docum
 - Lectures like ["Beyond PEP8"][pep8-talk] by [Raymond Herringer](https://twitter.com/raymondh) push you to be a better Python developper.
 - Check [trending on Github][trending] and [JetBrains annual user surveys][surveys] to see 
   what is cool and popular in Python.
-- I collected a few ideas and links about [project maintenance](python/packaging.md)
-  and [unit testing](python/unit_testing.md) ([just][just] and [pytest][pytest] are my friends).
+- I collected a few ideas and links about [project housekeeping](python/packaging.md)
+  and [unit testing](python/unit_testing.md) and treat [just][just] and [pytest][pytest] as friends.
+- I maintain two python packages for economic statistics:
+  - [boo](https://github.com/ru-corporate/boo/) - annual accounting reports of Russian 
+    companies, 1.2 million firms 
+  - [weo](https://github.com/epogrebnyak/weo-reader) - IMF WEO semi-annual releases as pandas dataframes
 
 [pep8-talk]: https://www.youtube.com/watch?v=wf-BqAjZb8M
 [trending]: https://github.com/trending/python
