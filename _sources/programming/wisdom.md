@@ -1,10 +1,10 @@
 # Computer wisdom
 
-#### Study guides
+#### Study guides and roadmaps
 
-- [System design primer](https://github.com/donnemartin/system-design-primer)
-- [Developper roadmap](https://github.com/kamranahmedse/developer-roadmap)
-
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Developer](https://github.com/kamranahmedse/developer-roadmap)
+- [Data Engineer](https://github.com/datastacktv/data-engineer-roadmap)
 
 #### Blog articles
 
@@ -20,11 +20,14 @@ by [programming is terrible](https://programmingisterrible.com/post/139222674273
 
 #### Laws
 
-
-- Conway's law was presented in [a 1968 paper](http://www.melconway.com/Home/Conways_Law.html), but rejected earier from Harvard Business Review
+- Conway's law was presented in [a 1968 paper](http://www.melconway.com/Home/Conways_Law.html)
+  , but rejected earier from Harvard Business Review.
 
 
 #### Sidenotes
 
-- *jupyter* name contains parts on Julia, Pyhton and R
 - A 1990s near Dilbert-style [IBM jargon gem](https://comlay.net/ibmjarg.pdf), plenty of revelations!
+
+#### Trivia
+
+- *jupyter* name contains parts on Julia, Pyhton and R
