@@ -54,19 +54,20 @@ Yes, [pytest](https://docs.pytest.org/en/stable/).
 
 <b>9. Difficult questions for you about unit testing?</b><br>
 
-- Testing with a database or ensuring a state
+- [Testing with a database or ensuring a state](https://flask.palletsprojects.com/en/1.1.x/testing/)
 - [Test naming](https://github.com/mini-kep/guidelines/blob/master/testing.md)
 - [Balancing test complexity and usefulness](https://twitter.com/PogrebnyakE/status/1230112605123076098)
 
 <b>10. Anything about other types of tests?</b><br>
-Unit tests are a part functional tests. There is more to test on a system in or near production stage, depending on your release cylce sophistication and handling of incidents. See chaos engineering, or fault injection tests, for some frontier testing approaches.
+
+- Unit tests are a part functional tests. There is more to test on a system in or near production, depending on your release cylce sophistication and handling of incidents. See [chaos engineering][chaos], or fault injection tests, for some frontier testing approaches.
+- [Frontend testing][sel] is a dangerous sophisticated world, which I know little about.
+
+[sel]: https://github.com/seleniumbase/SeleniumBase
+[chaos]: https://en.wikipedia.org/wiki/Chaos_engineering
 
 <b>More links?</b><br>
 
 - [Stack Overflow on pytest](https://stackoverflow.com/questions/tagged/pytest?tab=Frequent)
-- [Testing Flask](https://flask.palletsprojects.com/en/1.1.x/testing/)
-- [Frontend testing][sel], which I know little about
 - <https://raphael.codes/talks/>
 - <https://testing.googleblog.com/>
-
-[sel]: https://github.com/seleniumbase/SeleniumBase
