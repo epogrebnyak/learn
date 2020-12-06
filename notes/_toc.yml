@@ -4,7 +4,7 @@
   - file: python/start
   - file: python/packaging
   - file: python/unit_testing
-- part: General programming
+- part: Software engineering
   chapters:
   - file: programming/books
   - file: programming/wisdom
