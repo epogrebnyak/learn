@@ -20,7 +20,7 @@ This site lists my findings about Python, software engineering and writing docum
 **Julia**: 
 
 - I wrote [Julia, surprise me!](https://dev.to/epogrebnyak/julialang-and-surprises---what-im-learning-with-a-new-programming-language--21df) blog post when learning Julia (things improved since).
-- [Russian](https://t.me/JuliaLanguage) and [Kazakh](https://t.me/JuliaLang_Kz) telegram channels on Julia are quite active and accept questions in English too.
+- [Russian](https://t.me/JuliaLanguage) and [Kazakh](https://t.me/JuliaLang_Kz) telegram channels on Julia are thrillingly active and accept questions in English too.
 
 **Haskell**: [7 classes of Haskell][hs], a curated introduction to Haskell by [Yuras Shumovich](https://twitter.com/shumovichy) and a follow-up reading list.
 
@@ -40,3 +40,5 @@ emphasis on interactivity, code execution and hopefully PDF rendering. Other pop
 **Add more stuff**: contacts, data projects (boo), mid-tech data science, optimizations, reproducible research, missed-semester, tools for economists, Econometrics Navigator, technical writing, Nim/Rust, and [a time-keeping command line tool I often forget about][watson].
 
 [watson]: https://github.com/TailorDev/Watson
+
+**Twitter**. This site release announcement is pinned [here](https://twitter.com/PogrebnyakE/status/1335646763412303874).
