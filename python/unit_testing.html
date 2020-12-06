@@ -214,10 +214,61 @@
                 
   <div class="section" id="unit-testing">
 <h1>Unit testing<a class="headerlink" href="#unit-testing" title="Permalink to this headline">¶</a></h1>
+<p>Unit tests increase code quality and provide means to steer a project - they set objectives for next steps or help fix bugs. Unit tests mean writing more code and reviewing code under test, which takes time and effort.</p>
+<p>Below are a few links and my quick notes about unit testing in Python. I do not touch
+frontend tests (eg <a class="reference external" href="https://github.com/seleniumbase/SeleniumBase">selenium</a>), which I know little about.</p>
+<p><b>Favourite video about testing?</b><br>
+<a class="reference external" href="https://www.youtube.com/watch?v=EZ05e7EMOLM">TDD, Where Did It All Go Wrong</a> by <a class="reference external" href="https://twitter.com/icooper">Ian Cooper</a> is very impactful. <!--Also advertised [here](https://twitter.com/unclebobmartin/status/1032405401009041409). --></p>
+<p><b>A trivial test example?</b><br></p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">inc</span><span class="p">(</span><span class="n">x</span><span class="p">:</span> <span class="nb">int</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">int</span><span class="p">:</span>
+   <span class="k">return</span> <span class="n">x</span> <span class="o">+</span> <span class="mi">1</span>
+
+<span class="k">assert</span> <span class="n">inc</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span> <span class="o">==</span> <span class="mi">2</span>
+</pre></div>
+</div>
+<p><b>Does the example show much?</b></p>
 <ul class="simple">
-<li><p><a class="reference external" href="https://github.com/mini-kep/guidelines">Testing guidelines</a></p></li>
-<li><p><a class="reference external" href="https://stackoverflow.com/search?q=user%3A1758363+pytest">Some SO answers on pytest</a></p></li>
-<li><p><a class="reference external" href="https://github.com/Purgeable?utf8=%E2%9C%93&amp;q=testing&amp;type=&amp;language=">Testing setups</a></p></li>
+<li><p>Are there property guarantees?</p></li>
+<li><p>Does typing help?</p></li>
+<li><p>Not suited for dependency injection, right?</p></li>
+</ul>
+<p><b>Is unit test a proof?</b>
+<br>Usually, no. You may try <a class="reference external" href="https://hypothesis.works/articles/what-is-property-based-testing/">property testing</a> for more guarantees.</p>
+<!--b>Is code coverage a good metric?</b><br>
+0% coverage means there are no tests. With 100% coverage you can have poorly written tests, so the metric is not exhaustive. -->
+<p><b>What parts of code should I test?</b><br></p>
+<ul class="simple">
+<li><p>At least public methods and bug fixes.</p></li>
+<li><p>The smallest parts (through unit tests) and the biggest (through end-to-end, integration tests).</p></li>
+<li><p>Beware of <a class="reference external" href="http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/">dirty hybrids [Sanderson(2009)]</a>, the costly tests that attempt to target things in between.</p></li>
+</ul>
+<p><b>Does typing help writing a more testable code?</b><br>
+Yes, quite much. In Python we can then skip type-checking varieties of tests.</p>
+<!--b>A test setup (fixture) is getting big out of proportion, what is wrong?</b><br>
+
+- Maybe a chance to reconsider program design and refactor, where possible.
+- Testing the wrong part of program. -->
+<p><b>Should one <a class="reference external" href="https://twitter.com/gagliardi_vale/status/1318231202395004929">mock or monkey-patch for testing?</a></b><br>
+Only if you cannot use dependency injection.</p>
+<p><b>A continious integration (CI) for your projects?</b><br>
+I was <a class="reference external" href="https://twitter.com/PogrebnyakE/status/1323256976722305024">a fan of Travis CI</a>, but now Github Actions seem a natural choice.</p>
+<p><b>pytest?</b><br>
+Yes, <a class="reference external" href="https://docs.pytest.org/en/stable/">pytest</a>.</p>
+<p><b>Difficult questions for you about unit testing?</b><br></p>
+<ul class="simple">
+<li><p>Testing with a database or ensuring a state</p></li>
+<li><p><a class="reference external" href="https://github.com/mini-kep/guidelines/blob/master/testing.md">Test naming</a></p></li>
+<li><p><a class="reference external" href="https://twitter.com/PogrebnyakE/status/1230112605123076098">Balancing test complexity and usefulness</a></p></li>
+</ul>
+<p><b>Anything about other types of tests?</b><br>
+Unit tests are a part functional tests, there many more types of tests for a system
+in or near production stage, depending on your release cylce sophistication and handling of incidents. See chaos engineering, or fault injection tests, for some frontier testing approaches.</p>
+<p><strong>More links</strong></p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://stackoverflow.com/questions/tagged/pytest?tab=Frequent">Stack Overflow on pytest</a></p></li>
+<li><p><a class="reference external" href="https://flask.palletsprojects.com/en/1.1.x/testing/">Testing Flask</a></p></li>
+<li><p><a class="reference external" href="https://raphael.codes/talks/">https://raphael.codes/talks/</a></p></li>
+<li><p><a class="reference external" href="https://testing.googleblog.com/">https://testing.googleblog.com/</a></p></li>
 </ul>
 </div>
 
