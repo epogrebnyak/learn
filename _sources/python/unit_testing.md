@@ -7,6 +7,8 @@ Below are a few links and my quick notes about unit testing in Python.
 <b>1. Favourite video about testing?</b><br>
 [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) by [Ian Cooper](https://twitter.com/icooper) is very impactful. <!--Also advertised [here](https://twitter.com/unclebobmartin/status/1032405401009041409). -->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EZ05e7EMOLM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <b>2. A trivial test example?</b><br>
 
 ```python
@@ -58,7 +60,7 @@ Yes, [pytest](https://docs.pytest.org/en/stable/).
 - [Test naming](https://github.com/mini-kep/guidelines/blob/master/testing.md)
 - [Balancing test complexity and usefulness](https://twitter.com/PogrebnyakE/status/1230112605123076098)
 
-<b>10. Anything about other types of tests?</b><br>
+<b>10. Anything about other types of tests?</b>
 
 - Unit tests are a part functional tests. There is more to test on a system in or near production, depending on your release cylce sophistication and handling of incidents. See [chaos engineering][chaos], or fault injection tests, for some frontier testing approaches.
 - [Frontend testing][sel] is a dangerous sophisticated world, which I know little about.
@@ -66,7 +68,7 @@ Yes, [pytest](https://docs.pytest.org/en/stable/).
 [sel]: https://github.com/seleniumbase/SeleniumBase
 [chaos]: https://en.wikipedia.org/wiki/Chaos_engineering
 
-<b>More links?</b><br>
+<b>More links</b>
 
 - [Stack Overflow on pytest](https://stackoverflow.com/questions/tagged/pytest?tab=Frequent)
 - <https://raphael.codes/talks/>
