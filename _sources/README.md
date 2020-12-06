@@ -17,7 +17,7 @@ This site lists my findings about Python, software engineering and writing docum
 [pytest]: https://docs.pytest.org/en/stable/
 [just]: https://github.com/casey/just
 
-**Software engineering**. See a list of [essential books][books] and [thopught-provoking quotes][wise].
+**Software engineering**. See a list of [essential books][books] and [thought-provoking quotes][wise].
 
 [books]: programming/books.md
 [wise]: programming/wisdom.md
