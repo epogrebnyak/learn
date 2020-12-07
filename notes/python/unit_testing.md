@@ -22,7 +22,7 @@ assert inc(1) == 2
 - Not suited for dependency injection, right?
 
 <b>3. Is unit test a proof?</b>
-<br>Usually, no, but [property testing](https://hypothesis.works/articles/what-is-property-based-testing/) gives a some more guarantees.
+<br>Usually, no, but [property testing](https://hypothesis.works/articles/what-is-property-based-testing/) gives some more guarantees.
 
 <!--b>Is code coverage a good metric?</b><br>
 0% coverage means there are no tests. With 100% coverage you can have poorly written tests, so the metric is not exhaustive. -->
