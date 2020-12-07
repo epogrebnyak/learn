@@ -47,7 +47,7 @@ Yes, quite much. In Python we can then skip type-checking varieties of tests.
 Only if you cannot use dependency injection.
 
 <b>7. A continious integration (CI)?</b><br>
-I was [a fan of Travis CI][tweet-travis], but now Github Actions are a natural choice.
+[Travis CI was pioneering][tweet-travis], but now Github Actions are a natural choice.
 
 [tweet-travis]: https://twitter.com/PogrebnyakE/status/1323256976722305024
 
