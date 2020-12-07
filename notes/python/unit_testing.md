@@ -46,7 +46,7 @@ Yes, quite much. In Python we can then skip type-checking varieties of tests.
 <b>6. Should one [mock or monkey-patch for testing?](https://twitter.com/gagliardi_vale/status/1318231202395004929)</b><br>
 Only if you cannot use dependency injection.
 
-<b>7. A continious integration (CI) for your projects?</b><br>
+<b>7. A continious integration (CI)?</b><br>
 I was [a fan of Travis CI][tweet-travis], but now Github Actions are a natural choice.
 
 [tweet-travis]: https://twitter.com/PogrebnyakE/status/1323256976722305024
@@ -73,3 +73,4 @@ Yes, [pytest](https://docs.pytest.org/en/stable/).
 - [Stack Overflow on pytest](https://stackoverflow.com/questions/tagged/pytest?tab=Frequent)
 - <https://raphael.codes/talks/>
 - <https://testing.googleblog.com/>
+- <https://testandcode.com/>
