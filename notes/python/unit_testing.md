@@ -22,7 +22,7 @@ assert inc(1) == 2
 - Not suited for dependency injection, right?
 
 <b>3. Is unit test a proof?</b>
-<br>Usually, no. You may try [property testing](https://hypothesis.works/articles/what-is-property-based-testing/) for more guarantees.
+<br>Usually, no, but [property testing](https://hypothesis.works/articles/what-is-property-based-testing/) gives a some more guarantees.
 
 <!--b>Is code coverage a good metric?</b><br>
 0% coverage means there are no tests. With 100% coverage you can have poorly written tests, so the metric is not exhaustive. -->
@@ -51,19 +51,20 @@ I was [a fan of Travis CI][tweet-travis], but now Github Actions are a natural c
 
 [tweet-travis]: https://twitter.com/PogrebnyakE/status/1323256976722305024
 
-<b>8. pytest?</b><br>
+<!--b>8. pytest?</b><br>
 Yes, [pytest](https://docs.pytest.org/en/stable/).
+-->
 
-<b>9. Difficult questions for you about unit testing?</b><br>
+<b>8. Difficult questions about unit testing?</b><br>
 
 - [Testing with a database or ensuring a state](https://flask.palletsprojects.com/en/1.1.x/testing/)
 - [Test naming](https://github.com/mini-kep/guidelines/blob/master/testing.md)
 - [Balancing test complexity and usefulness](https://twitter.com/PogrebnyakE/status/1230112605123076098)
 
-<b>10. Anything about other types of tests?</b>
+<b>9.Other types of tests?</b>
 
 - Unit tests are a part functional tests. There is more to test on a system in or near production, depending on your release cylce sophistication and handling of incidents. See [chaos engineering][chaos], or fault injection tests, for some frontier testing approaches.
-- [Frontend testing][sel] is a dangerous sophisticated world, which I know little about.
+- [Frontend testing][sel].
 
 [sel]: https://github.com/seleniumbase/SeleniumBase
 [chaos]: https://en.wikipedia.org/wiki/Chaos_engineering
