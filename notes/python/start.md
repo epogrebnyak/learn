@@ -3,7 +3,7 @@
 ## My favourite introductions to Python
 
 1. Oleksii Trekhleb's [Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python) - looks a good checklist
-2. [Python introduction](https://python-programming.quantecon.org/intro.html) at QuantEcon
+2. [Python introduction](https://python-programming.quantecon.org/intro.html) at QuantEcon (link changed)
 3. ["The Python language" chapter](http://scipy-lectures.org/intro/language/python_language.html) in SciPy lectures
 
 ## Introductory books on Python 
