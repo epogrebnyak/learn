@@ -27,11 +27,6 @@ This site lists my findings about programming, economic data and writing documen
 - I wrote [Julia, surprise me!](https://dev.to/epogrebnyak/julialang-and-surprises---what-im-learning-with-a-new-programming-language--21df) blog post when learning Julia (things improved since).
 - [Russian](https://t.me/JuliaLanguage) and [Kazakh](https://t.me/JuliaLang_Kz) telegram channels on Julia are thrillingly active and accept questions in English too.
 
-**Haskell**: 
-
-- [7 classes of Haskell][hs], a curated introduction to Haskell by [Yuras Shumovich](https://twitter.com/shumovichy) and a follow-up reading list.
-
-[hs]: https://github.com/epogrebnyak/haskell-intro
 
 **Software engineering**. See a list of [essential books][books] and [thought-provoking quotes][wise].
 
